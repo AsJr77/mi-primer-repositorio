@@ -1,2 +1,2 @@
-# mi-primer-repositorio
-primero rep
+# mi-pri
+hola mundo 
